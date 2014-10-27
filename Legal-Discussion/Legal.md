@@ -2,7 +2,7 @@
 
 #Legal Implications of Content Mining
 
-This session by Puneet Kishor ([@punkish](https://twitter.com/punkish)) explores the implications of copyright and database rights for content mining activities.
+This session is led by Puneet Kishor ([@punkish](https://twitter.com/punkish)) explores the implications of copyright and database rights for content mining activities.
 
 We will cover the relevant statutory laws, exemptions, case law and other information relevant for researchers wishing to embark on responsible and legal content mining projects.
 
