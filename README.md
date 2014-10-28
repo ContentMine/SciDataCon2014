@@ -7,7 +7,8 @@ Workshop resources for half-day workshop at SciDataCon New Delhi on 2 Nov 2014
 
 
 ## ContentMine workshop at SciDataCon
-## 09:00 – 16:00, 2 November 2014 
+### 09:00 – 16:00, 2 November 2014 
+### [Registration] (https://docs.google.com/document/d/1qywY1DZA3USobC4_Nq0A4iNTXW0vvOkQmY9qs3sCXkI/pub)
 
 ## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#SciDataCon2014
 
