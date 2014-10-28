@@ -7,11 +7,10 @@ Workshop resources for half-day workshop at SciDataCon New Delhi on 2 Nov 2014
 
 
 ## ContentMine workshop at SciDataCon
-## 09:00 – 12:30, 2 November 2014 
+## 09:00 – 16:00, 2 November 2014 
 
 ## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#SciDataCon2014
 
-[Programme here](https://github.com/ContentMine/ebi_workshop_20141006/blob/master/info/EBI_programme.pdf?raw=true)
 
 ### Organisers:
 
