@@ -22,7 +22,7 @@ Workshop resources for half-day workshop at SciDataCon New Delhi on 2 Nov 2014
 
 ### Agenda
 
-1. Introductions
+1. [Introductions] (http://pads.cottagelabs.com/p/contentmine_scidatacon2014)
 2. What is content mining
   * An introduction to content mining - what content can be mined and from where?
 3. [Paper markup exercise] (https://github.com/ContentMine/SciDataCon2014/tree/master/Paper-Markup)
@@ -33,7 +33,7 @@ Workshop resources for half-day workshop at SciDataCon New Delhi on 2 Nov 2014
   * Learn about what can already be mined from papers and experiment with [extracting species names](https://github.com/ContentMine/ebi_workshop_20141006/blob/master/sessions/4_AMI/ami-species_demo.md).
 6. [Legal implications of content mining] (https://github.com/ContentMine/SciDataCon2014/tree/master/Legal-Discussion)
   * Covering the copyright and database rights that impact on contact mining activities, including statutory and case law.
-7. Blue-sky session
+7. [Blue-sky session] (http://pads.cottagelabs.com/p/contentmine_scidatacon2014)
   * We want to know  - if you could ask a question of the whole of the scientific literature, what would it be?  During this session we will collate ideas for projects using content mining and talk more about how the techniques could assist you in your research.
 8. Conclusion
   * This session will wrap up the workshop and suggest ways in which you can find help and support with content mining projects.
