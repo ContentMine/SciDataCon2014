@@ -17,14 +17,13 @@ Before the workshop, all attendees should do the following:
 ###1. VirtualBox
 
 Please download the VirtualBox platform installer for your operating system from the VirtualBox
-website: https://www.virtualbox.org/wiki/Downloads.
+[website] (https://www.virtualbox.org/wiki/Downloads).
 
 Run the installer and follow the on-screen instructions.
 
 ###2. ContentMine virtual machine image
 
-Please download the virtual image from https://www.dropbox.com/s/rie9l8m1v4fdqha/
-ContentMine.ova. Note, this is a large file: ~1.8GB!
+Please download the [virtual image] (https://www.dropbox.com/s/rie9l8m1v4fdqha/ContentMine.ova). Note, this is a large file: ~1.8GB!
 
 When the file is downloaded, double-clicking it should open VirtualBox and offer to import the
 virtual machine. Please follow the on-screen instructions to complete the import.
