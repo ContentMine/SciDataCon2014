@@ -2,10 +2,10 @@
 
 ### Exercises
 
-1. [using quickscrape](01_using_quickscrape.md)
-2. [creating selectors](02_creating_selectors.md)
-3. [basic scraper construction](03_basic_scraper_construction)
-4. [advanced scraper construction](04_advanced_scraper_construction)
+1. [using quickscrape](https://github.com/ContentMine/ebi_workshop_20141006/blob/master/sessions/6_scrapers/01_using_quickscrape.md)
+2. [creating selectors](https://github.com/ContentMine/ebi_workshop_20141006/blob/master/sessions/6_scrapers/02_creating_selectors.md)
+3. [basic scraper construction](https://github.com/ContentMine/ebi_workshop_20141006/blob/master/sessions/6_scrapers/02_creating_selectors.md)
+
 
 #### Documentation
 
