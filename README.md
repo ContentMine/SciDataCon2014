@@ -1,7 +1,7 @@
 SciDataCon2014
 ==============
 
-Workshop resources for half-day workshop at SciDataCon New Delhi on 2 Nov 2014
+Workshop resources for one dayworkshop at SciDataCon New Delhi on 2 Nov 2014
 
 ![ContentMine logo](https://github.com/ContentMine/ebi_workshop_20141006/raw/master/setup/CM_logo.png)
 
@@ -18,6 +18,8 @@ Workshop resources for half-day workshop at SciDataCon New Delhi on 2 Nov 2014
 - Jenny Molloy [@jenny_molloy](https://twitter.com/jenny_molloy)
 - Puneet Kishor [@punkish](https://twitter.com/punkish)
 - The ContentMine Team [@TheContentMine] (https://twitter.com/TheContentMine)
+
+### [Pre-workshop Installation Instructions] (https://github.com/ContentMine/SciDataCon2014/blob/master/Info/README.md)
 
 
 ### Agenda
