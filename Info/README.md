@@ -1,7 +1,6 @@
 <img src="https://github.com/ContentMine/ebi_workshop_20141006/raw/master/setup/CM_logo.png" width="200px"/>
 
 #Pre-workshop installation instructions
-ContentMine workshop @ SciDataCon, 2 Nov 2014
 
 ###Introduction
 
